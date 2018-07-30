@@ -25,7 +25,7 @@ pip install imageio
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License - see the [LICENSE](https://github.com/bensukra100/ATRAP_personal/blob/master/Image_Analysis/LICENSE) file for details
 
 ## Acknowledgments
 * **Alberto Alonso** - [Alberto-masm](https://github.com/Alberto-masm) This is script is similar to a script produced by Alberto for a similar system in the Positronium Spectroscopy Group at University College London. 
